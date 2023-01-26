@@ -9,7 +9,7 @@ import Shawshank from '../images/movies/Shawshank.png';
 import StarTrack4 from '../images/movies/StarTreck4.png';
 import Superman4 from '../images/movies/Superman4.png';
 
-const MovieImageArray = [
+const MovieImageArr = [
     { id: 1, image: Godfather },
     { id: 2, image: Highlander },
     { id: 3, image: Highlander2 },
@@ -23,4 +23,4 @@ const MovieImageArray = [
 
 ];
 
-export default MovieImageArray;
+export default MovieImageArr;
